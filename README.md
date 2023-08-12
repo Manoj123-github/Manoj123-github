@@ -1,29 +1,35 @@
 <!--## 💫 About Me:-->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/79782433/195537454-75cb0d98-630c-442f-87aa-196e69b59bb2.svg">
-</p>
 
 <p align="center">
-  <a href="https://github.com/Manoj123-github/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Python%20Developer!;4%2B%20years%20of%20Coding%20Experience!%20;Experienced%20Web%20Developer!%20;Always%20learning%20new%20things!%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"></a>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+   <img src="https://readme-typing-svg.demolab.com/?lines=Manoj Yadav &font=Fira%Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+ 
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Github!!&font=Fira%Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+ 
+          
+
 
 ---
 
-<h3 quote align='center'>Think with your whole body.</h3 quote>
+<h3 quote align='center'>I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment, and operations processes.</h3 quote>
+
+---
+
+<h3>   🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </h3>
+<h3>   🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </h3>
+<h3>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Kubernetes, and more! </h3>
+
 
 ---
 
 ## 🌐 Socials:
 
-<p align="center">
-  <a href="https://github.com/Manoj123-github">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/manoj-yadav123/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  
-</p>
+<a href="https://www.linkedin.com/in/manoj-yadav123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-manoj-informational"></a>
+<a href="mailto:manojyadav.personal@gmail.com"><img src="https://img.shields.io/badge/Email-manojyadav.personal%40gmail.com-orange"></a>
+<a href="http://manojyadav.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-manojyadav.pythonanywhere.com-red"></a>
   
   
 ## 💻 Tech Stack:

@@ -1,7 +1,7 @@
 <!--## 💫 About Me:-->
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com/?lines=Manoj Yadav &font=Fira%Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+   <img src="cooltext440971217530532.png">
  
 </p>
 <p align="center">

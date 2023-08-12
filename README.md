@@ -8,12 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome to my Github!!&font=Fira%Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
- 
-          
-
-
 ---
-
 <h3 quote align='center'>I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment, and operations processes.</h3 quote>
 
 ---
@@ -21,13 +16,11 @@
 <h3>   🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </h3>
 <h3>   🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </h3>
 <h3>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </h3>
-
-
----
+</p>
 
 ## 🌐 Socials:
 
-<a href="https://www.linkedin.com/in/manoj-yadav123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-manoj-informational"></a>
+<a href="https://www.linkedin.com/in/manoj-yadav123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-manoj-yadav123"></a>
 <a href="mailto:manojyadav.personal@gmail.com"><img src="https://img.shields.io/badge/Email-manojyadav.personal%40gmail.com-orange"></a>
 <a href="http://manojyadav.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-manojyadav.pythonanywhere.com-red"></a>
   

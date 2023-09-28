@@ -48,7 +48,7 @@
  </p> 
 
 
-[![Manoj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Manoj123-github&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true)](https://github.com/Manoj123-github/github-readme-activity-graph)
+
 
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Manoj123-github}/count.svg/" alt="Manoj Yadav Visitor's count" /></p>

@@ -13,9 +13,9 @@
 
 ---
 
-<p align='center'>   🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
+<p align='center'>  🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
 <p align='center'>  🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </p>
-<p align='center'> 💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </p>
+<p align='center'>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </p>
 
 
 ## 🌐 Socials:

@@ -38,9 +38,9 @@ Here are some of the technologies and tools I work with:
  </p>
 
 🌐 **Connect with Me:**
-- [LinkedIn](https://linkedin.com/in/manoj-yadav123)
-- [Email](mailto:manojyadav.personal@gmail.com)
-- [Website/Blog](https://manojyadav.pythonanywhere.com/)
+<a href="https://www.linkedin.com/in/manoj-yadav123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-manoj-yadav123"></a>
+<a href="mailto:manojyadav.personal@gmail.com"><img src="https://img.shields.io/badge/Email-manojyadav.personal%40gmail.com-orange"></a>
+<a href="http://manojyadav.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-manojyadav.pythonanywhere.com-red"></a>
 
 
 ## 🔥 GitHub stats:

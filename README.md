@@ -1,5 +1,30 @@
 # Hello, I'm Manoj Yadav 👋
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>GitHub Profile Animation</title>
+    <style>
+        @keyframes slideIn {
+            0% {
+                transform: translateX(-100%);
+            }
+            100% {
+                transform: translateX(0);
+            }
+        }
+        .animated-text {
+            animation: slideIn 1s ease-in-out;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="animated-text">Hello, I'm Manoj Yadav 👋</h1>
+</body>
+</html>
+
+
 I'm a passionate DevOps Engineer with a love for automation and continuous improvement. My goal is to make software development and deployment smoother, faster, and more efficient. I believe in the power of infrastructure as code, containerization, and collaboration.
 
 

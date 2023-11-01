@@ -2,28 +2,32 @@
 
 I'm a passionate DevOps Engineer with a love for automation and continuous improvement. My goal is to make software development and deployment smoother, faster, and more efficient. I believe in the power of infrastructure as code, containerization, and collaboration.
 
-🌟 **Highlighted Skills:**
-- Infrastructure as Code: Terraform, CloudFormation
-- Containerization: Docker, Kubernetes
-- CI/CD: Jenkins, GitHub Actions
-- Cloud Platforms: AWS
-- Configuration Management: Ansible
-- Monitoring & Logging: Prometheus, Grafana, Pingdom, Icinga, Nagios
-- Scripting and Automation: Bash, Python
-- Collaboration and Teamwork
 
+<p>  🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
+<p>  🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </p>
+<p>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </p>
+
+
+## ⚙️ Tech Stack
+
+Here are some of the technologies and tools I work with:
+
+- **Cloud**: AWS
+- **Containers & Orchestration**: Docker, Kubernetes
+- **Infrastructure as Code**: Terraform
+- **Configuration Management**: Ansible
+- **CI/CD**: Jenkins, GitHub Actions
+- **Version Control**: Git
+- **Monitoring & Logging**: Prometheus, Grafana, Nagios
+- **Scripting**: Bash, Python
+- **Web Servers**: Nginx, Apache
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 🌐 **Connect with Me:**
 - [LinkedIn](https://linkedin.com/in/manoj-yadav123)
 - [Email](mailto:manojyadav.personal@gmail.com)
 - [Website/Blog](https://manojyadav.pythonanywhere.com/)
-
-
-💬 **Let's Chat:**
-- If you have any questions, want to collaborate, or just have a chat, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/manoj-yadav123).
-
-📢 **Fun Fact:**
-I believe the key to successful DevOps is not just about technology but also about fostering a culture of collaboration and continuous learning.
 
 
 ## 🔥 GitHub stats:
@@ -45,7 +49,6 @@ I believe the key to successful DevOps is not just about technology but also abo
 
 <h3 align="center">Visitor's count</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/{Manoj123-github}/count.svg/" alt="Manoj Yadav Visitor's count" /></p>
-
 
 
 

@@ -1,7 +1,5 @@
 # Hello, I'm Manoj Yadav 👋
 
-I'm a passionate DevOps Engineer with a love for automation and continuous improvement. My goal is to make software development and deployment smoother, faster, and more efficient. I believe in the power of infrastructure as code, containerization, and collaboration.
-
 
 <p>  🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
 <p>  🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </p>

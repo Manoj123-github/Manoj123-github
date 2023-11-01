@@ -1,10 +1,11 @@
-# Hello, I'm Manoj Yadav 👋
+# <p align='center'> Hello, I'm Manoj Yadav 👋 </p>
 
-<p align="centre">
+
+
 <p>  🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
 <p>  🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </p>
 <p>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </p>
-</p>
+
 
 ## ⚙️ Tech Stack
 

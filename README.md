@@ -14,7 +14,7 @@ I'm a passionate DevOps Engineer with a love for automation and continuous impro
 
 
 🌐 **Connect with Me:**
-- [LinkedIn]([https://linkedin.com/in/manoj-yadav123])
+- [LinkedIn](https://linkedin.com/in/manoj-yadav123)
 - [Email](mailto:manojyadav.personal@gmail.com)
 - [Website/Blog](https://manojyadav.pythonanywhere.com/)
 

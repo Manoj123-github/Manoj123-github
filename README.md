@@ -13,7 +13,7 @@
 
 ---
 
-<h3>   🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </h3>
+<p>   🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
 <h3>   🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </h3>
 <h3>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </h3>
 </p>

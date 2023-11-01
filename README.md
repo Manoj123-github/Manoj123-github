@@ -9,7 +9,7 @@
 </p>
 
 ---
-<p quote align='center'> <b>I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment processes.</b> </p quote>
+<p quote align='center'> <b>I'm a DevOps and cloud enthusiast with a passion for implementing different tools for automating and streamlining development and deployment processes.</b> </p quote>
 
 ---
 

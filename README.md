@@ -9,14 +9,14 @@
 </p>
 
 ---
-<h3 quote align='center'>I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment, and operations processes.</h3 quote>
+<p> quote align='center'> <b> I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment, and operations processes. </b> </p quote>
 
 ---
 
 <p>   🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines. </p>
-<h3>   🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </h3>
-<h3>  💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </h3>
-</p>
+<p>  🌱 I’m continuously learning about the latest DevOps practices and cloud technologies. </p>
+<p> 💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! </p>
+
 
 ## 🌐 Socials:
 
@@ -46,8 +46,6 @@
 
   <br/>
  </p> 
-
-
 
 
 <h3 align="center">Visitor's count</h3>

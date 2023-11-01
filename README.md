@@ -37,7 +37,9 @@ Here are some of the technologies and tools I work with:
  <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a> 
  </p>
 
-🌐 **Connect with Me:**
+
+## 🌐 **Connect with Me:**
+
 <a href="https://www.linkedin.com/in/manoj-yadav123/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-manoj-yadav123"></a>
 <a href="mailto:manojyadav.personal@gmail.com"><img src="https://img.shields.io/badge/Email-manojyadav.personal%40gmail.com-orange"></a>
 <a href="http://manojyadav.pythonanywhere.com/" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-manojyadav.pythonanywhere.com-red"></a>

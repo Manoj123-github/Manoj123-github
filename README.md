@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills in cloud architecture and CI/CD pipelines.<br>🌱 I’m continuously learning about the latest DevOps practices and cloud technologies.<br>💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! 
+🔭 I’m currently working on enhancing my skills in cloud architecture.<br>🌱 I’m continuously learning about the latest DevOps practices and cloud technologies.<br>💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! 
 
 
 ## 🌐 Socials:

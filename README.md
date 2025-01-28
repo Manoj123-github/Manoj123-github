@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on enhancing my skills in cloud architecture.<br>🌱 I’m continuously learning about the latest DevOps practices and cloud technologies.<br>💬 Ask me about DevOps, cloud computing, CI/CD, Docker, Terraform, and more! 
-
+🚀 DevOps and Cloud enthusiast | Automating workflows | Cloud & CI/CD | Passionate about simplifying complex systems and delivering reliable solutions. Always learning and sharing knowledge!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-yadav123) 
